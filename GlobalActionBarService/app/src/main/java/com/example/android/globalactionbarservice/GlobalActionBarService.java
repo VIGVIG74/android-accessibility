@@ -36,7 +36,7 @@ public class GlobalActionBarService extends AccessibilityService {
     @Override
     public void onAccessibilityEvent(AccessibilityEvent event) {
 
-    }
+    }Verify my google account by my phone number
 
     @Override
     public void onInterrupt() {
